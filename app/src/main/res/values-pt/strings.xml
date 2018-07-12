@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mandar por HTTP</string>
+
+    <string name="technical_info">Restrições Técnicas: No Wifi, todos terão acesso ao(s) arquivo(s). Fora, vai depender de firewalls, NAT, etc... Em um IPv6 não bloqueado, deve funcionar em qualquer lugar.</string>
+
+    <string name="rate_app">Dar uma nota para este App</string>
+	<string name="button_qrcode">Criar QR</string>
+	<string name="change_ip">Escolher IP</string>
+    <string name="share_containing_folder">Compartilhar Pasta Que Contém Este Arquivo</string>
+	<string name="share_url">Enviar URL</string>
+	<string name="stop_server">Desligar Compartilhamento</string>
+
+    <string name="now_sharing_anymore">O arquivo não está mais sendo compartilhado.</string>
+
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancelar</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="connected_ip">Conectado: %s</string>
+    <string name="disconnected_ip">Desconectado: %s</string>
+
+</resources>
